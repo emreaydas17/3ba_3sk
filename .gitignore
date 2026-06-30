@@ -1,0 +1,8 @@
+/target
+**/*.rs.bk
+Cargo.lock
+
+# IDE Ayarları
+.idea/
+.vscode/
+.DS_Store
