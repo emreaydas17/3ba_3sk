@@ -27,3 +27,11 @@ Rust diliyle yazılmış, yüksek performanslı ve asenkron bir kripto para tara
 * **Nokta Atışı Zaman Takibi: Formasyonun gerçekleştiği mumun açılış saatini chrono kütüphanesiyle hatasız bir şekilde Türkiye Saatine (TSİ / UTC+3) çevirir.
 * **Toplu Raporlama: Terminal kirliliğini önlemek amacıyla tarama sonunda sonuçları formasyon başlıkları altında toplu gösterir.
 * **Tek Seferlik Çalışma: Zamanlanmış görevler veya CI/CD süreçleriyle tetiklenmek için uygundur.
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/8d195495-7aa6-4d97-b896-016c262f7233" controls="controls" style="max-width: 70%; height: auto;">
+    Tarayıcınız video etiketini desteklemiyor.
+  </video>
+</p>
+
+<br>
